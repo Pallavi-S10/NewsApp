@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Buffalo shooting: NY probes 'bone-chilling' social media role",
+    "description": "Prosecutors will ask whether social platforms were \"used to stream, promote, or plan\" the murders.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61502238",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/143C0/production/_124808828_gettyimages-1240735860.jpg",
+    "publishedAt": "2022-05-19T02:37:22.9119522Z",
+    "content": "Image source, Getty Images\r\nNew York state's top prosecutor has launched an investigation into the role social media companies played in Saturday's mass shooting in Buffalo.\r\nThe inquiry will look at… [+1908 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Juan Carlos: Spain's ex-king to return after two-year exile",
+    "description": "Juan Carlos left Spain in 2020 after he was linked to an inquiry into alleged corruption.",
+    "url": "http://www.bbc.co.uk/news/world-europe-61502609",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/173D6/production/_124809159_gettyimages-940613224.jpg",
+    "publishedAt": "2022-05-19T01:37:27.2238862Z",
+    "content": "Image source, Getty Images\r\nImage caption, Juan Carlos abdicated in 2014 after close to 40 years in power and handed power to his son Felipe\r\nSpain's former King Juan Carlos will return to the countr… [+2177 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Rangers lose Europa final to Eintracht on penalties",
+    "description": "Rangers suffer an agonising penalty shootout defeat in their fifth European final as Eintracht Frankfurt in an absorbing Europa League final.",
+    "url": "http://www.bbc.co.uk/sport/football/61446268",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/C1B6/production/_124809594_1a105c7fc27e13f9762c57bc25324eb88549ae40.jpg",
+    "publishedAt": "2022-05-19T01:37:26.677146Z",
+    "content": "Aaron Ramsey's penalty is blocked by Kevin Trapp - it would be the only spot kick missed in the shoot-out\r\nRangers suffered an agonising penalty shootout defeat in their fifth European final as Eintr… [+12013 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Platinum Jubilee concert: Diana Ross and Queen to perform for the Queen",
+    "description": "Diana Ross, Eurovision star Sam Ryder and Queen and Adam Lambert will perform at Buckingham Palace.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-61491629",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9087/production/_124799963_gettyimages-1190953248_2.jpg",
+    "publishedAt": "2022-05-19T01:37:22.7874892Z",
+    "content": "Image source, Getty Images\r\nImage caption, Diana Ross said the Queen \"continues to be such an incredible inspiration to so many across the world\"\r\nDiana Ross, Queen and Adam Lambert, Duran Duran and … [+3494 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Taylor Swift tells graduates to embrace 'cringe'",
+    "description": "New York University bestowed the renowned pop singer with an honorary degree.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61502979",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/123C2/production/_124809647_p0c7p67v.jpg",
+    "publishedAt": "2022-05-19T01:37:18.7867015Z",
+    "content": "Taylor Swift tells graduates to embrace 'cringe' Video, 00:01:29Taylor Swift tells graduates to embrace 'cringe'"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine invasion could cause global food crisis, UN warns",
+    "description": "Secretary-General Antonio Guterres warns developing countries face disaster due to rising prices.",
+    "url": "http://www.bbc.co.uk/news/world-europe-61503049",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17EC6/production/_124809979_hi075892552.jpg",
+    "publishedAt": "2022-05-19T00:07:22.7872482Z",
+    "content": "By Matt MurphyBBC News\r\nImage caption, The UN says around 20 million tonnes of grain are currently stuck in Ukraine from the previous harvest\r\nRussia's invasion of Ukraine could cause global food sho… [+3064 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump urges Oz to declare victory in cliffhanger Senate vote",
+    "description": "But the too-close-to-call Republican primary in Pennsylvania is likely to go to a recount.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61497963",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/177BE/production/_124809169_gettyimages-1240498183.jpg",
+    "publishedAt": "2022-05-18T21:52:16.1459927Z",
+    "content": "Image source, Getty Images\r\nImage caption, Donald Trump at a campaign rally for Mehmet Oz on 6 May\r\nFormer President Donald Trump has urged celebrity doctor Mehmet Oz to declare victory in Tuesday's … [+2706 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Markets fall as retailers ring alarm over US economy",
+    "description": "The S&P 500 dropped 4%, while the Dow fell 3.5%.",
+    "url": "http://www.bbc.co.uk/news/business-61497817",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40C4/production/_124808561_hi076098273.jpg",
+    "publishedAt": "2022-05-18T21:07:21.5533313Z",
+    "content": "US markets have plunged again after downbeat reports from some of America's biggest retailers intensified fears that fast-rising prices will send the economy into slowdown.\r\nTarget said unexpectedly … [+2107 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Baby formula shortage: Experts urge parents not to make homebrews",
+    "description": "Desperate mothers are trying to mix their own baby formula, but experts warn of the dangers.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61485009",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8029/production/_124790823_brandysloan_1.jpg",
+    "publishedAt": "2022-05-18T18:22:24.3643923Z",
+    "content": "By Chelsea BaileyBBC News, Washington\r\nImage source, Angelica Casas, BBC News\r\nImage caption, Brandy Sloan feeds formula to her adopted two-month-old son.\r\nBrandy Sloan was close to tears. The 43-yea… [+6398 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russian soldier pleads guilty in first war crimes trial of Ukraine conflict",
+    "description": "The 21-year-old admits killing an unarmed civilian, in Ukraine's first war crimes trial since war began.",
+    "url": "http://www.bbc.co.uk/news/world-europe-61496428",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2486/production/_124805390_tv076090347-1.jpg",
+    "publishedAt": "2022-05-18T16:52:21.2404282Z",
+    "content": "By Sarah Rainsford, BBC NewsKyiv\r\nImage caption, Vadim Shishimarin is a 21-year-old tank commander in the Russian armed forces\r\nA 21-year-old Russian soldier has pleaded guilty to killing an unarmed … [+2386 chars]"
+    }
+    ]
+    }
